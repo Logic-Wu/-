@@ -769,7 +769,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u5F20\u5927\u5A01\uFF0C\u4E0A\u6D77\u79D1\u6280\u5927\u5B66\uFF0C\u7CFB\u7EDF\u7B56\u5212\n\r\r\u4E8E\u94ED\uFF0C\u957F\u6625\u5927\u5B66\uFF0C\u5173\u5361\u7B56\u5212\r\r\n\u5F20\u5609\u4EEA\uFF0C\u4E0A\u6D77\u79D1\u6280\u5927\u5B66\uFF0C\u7F8E\u672F\r\r\n\u5434\u5B97\u7965\uFF0C\u4E0A\u6D77\u79D1\u6280\u5927\u5B66\uFF0C\u7A0B\u5E8F&\u573A\u666F\u5E03\u7F6E\n\r\r\u9ECE\u53C8\u94ED\uFF0C\u7535\u5B50\u79D1\u6280\u5927\u5B66\uFF0C\u7F8E\u672F"
+  m_Text: "\u7B56\u5212\uFF1A David \u4E8E\u94ED \n\u7A0B\u5E8F\uFF1A ZoneX \n\u7F8E\u672F\uFF1A
+    \u72EC\u6B4C \u539F\u53D9"
 --- !u!222 &185437852
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1613,7 +1614,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 400, y: 150}
+  m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &512999847
 MonoBehaviour:
