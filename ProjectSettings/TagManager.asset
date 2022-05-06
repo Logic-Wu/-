@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DoorTri
+  - holder
+  - conveyor
+  - "\u6ED1\u5757"
+  - NPC
+  - platform
+  - "\u98CE\u8F66"
+  - "\u53D1\u7535\u7AD9"
+  - "\u8239"
+  - "\u8239\u5E06"
+  - "\u78B0\u649E"
+  - TelePort
+  - title
+  - BianJie1
+  - BianJie2
+  - Total
+  - ChaiFen
+  - butterfly
+  - CrewList
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - NOCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
